@@ -18,7 +18,6 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/tahirtekizbas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tahirtekizbas" height="30" width="30" /></a>
-</p>
 <a href="https://linkedin.com/in/tahirtekizbas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tahirtekizbas" height="30" width="30" /></a>
 </p>
 
