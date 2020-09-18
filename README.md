@@ -20,12 +20,11 @@
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</p>
-
+</p >
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahirtekizbas&layout=compact" alt="tahirtekizbas" /></p>
-
+<!--
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahirtekizbas&show_icons=true" alt="tahirtekizbas" /></p>
-
+-->
 <p align="center">
 <a href="https://linkedin.com/in/tahirtekizbas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tahirtekizbas" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/tahirtekizbas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tahirtekizbas" height="30" width="30" /></a>
