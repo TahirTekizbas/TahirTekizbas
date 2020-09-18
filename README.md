@@ -1,14 +1,16 @@
 ### Hi there 👋
-![Visitor Count](https://profile-counter.glitch.me/{TahirTekizbas}/count.svg)
+<div align="center">![Visitor Count](https://profile-counter.glitch.me/{TahirTekizbas}/count.svg) </div>
 
 <h1 align="center">Hi 👋, I'm Tahir Tekizbas</h1>
 <h3 align="center">I am a Junior Back-End .NET Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahirtekizbas" alt="tahirtekizbas" /> </p>
 
-- Siemens **Cross-Rail**
-
-- Java Script **JQuery**
+- 🔭 I’m currently working on Siemens Cross-Rail
+- 🌱 I’m currently learning JavaScript/JQuery
+- 👯 I’m looking to collaborate on web based projects
+- 💬 Ask me about anything
+- 📫 How to reach me: tahir.tee@hotmail.com
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
 
