@@ -29,11 +29,16 @@ MongoDB
 Advanced AI techniques: Natural Language Processing, Computer Vision
 AWS Cloud Architecture: Designing scalable and secure cloud solutions
 Serverless Computing: AWS Lambda, Azure Functions
+
 📈 Projects
 1. AI-Based Optimization Tool
 Tech Stack: .NET, Python, TensorFlow
 Description: A tool that leverages AI algorithms to optimize complex systems, improving efficiency and performance.
+
+
 📫 Get in Touch
 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/tahirtekizbas/)
+
 Email: tekizbas.tahir@gmail.com
+
 Feel free to explore my repositories, and don't hesitate to reach out if you want to collaborate or chat about tech!
